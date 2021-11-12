@@ -1,6 +1,8 @@
 mysql:
   user: weiwei0101
 
-
 person:
   name: weiwei
+
+company:
+  slogan: 中国梦！
